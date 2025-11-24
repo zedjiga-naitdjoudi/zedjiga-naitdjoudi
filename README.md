@@ -1,7 +1,12 @@
 <img align="center" src="./assets/headerbar.svg" alt="banner" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&pause=1500&color=F38EB7&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Zedjiga;Full+Stack+Web+Developer;Tech+Lover+%F0%9F%8C%B8" alt="Typing SVG" />
+<h1 align="center">Hi I'm Zedjiga </h1>
+
+<!-- Intro -->
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=F9A8D4&center=true&vCenter=true&lines=Full+Stack+Web+Developer;ESGI+Student">
+    <h3 align="center">Love Tech, love learning and share my knowledges.</h3>
+    <h3 align="center">I'm web developper</h3>
 </p>
 
 ## 👩‍💻 About Me
