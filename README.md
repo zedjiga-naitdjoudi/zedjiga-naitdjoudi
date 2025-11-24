@@ -1,7 +1,7 @@
 <img align="center" src="./assets/headerbar.svg" alt="banner" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&pause=1500&color=F38EB7&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Zedjiga+Nait+Djoudi;Full+Stack+Web+Developer;Soft+Pastel+Tech+Lover+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&pause=1500&color=F38EB7&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Zedjiga;Full+Stack+Web+Developer;Tech+Lover+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me
