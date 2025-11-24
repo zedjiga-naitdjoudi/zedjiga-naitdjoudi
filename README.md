@@ -21,10 +21,9 @@ Always motivated to grow, collaborate, and bring ideas to life! ✨
 ---
 
 ## 🔗 My Links
-
-* 🌐 **GitHub** → https://github.com/zedjiga-naitdjoudi  
-* 💼 **LinkedIn** → Zedjiga Nait Djoudi  
-* 📸 **Instagram** → https://www.instagram.com/zzjcanfly  
+* <img src="./assets/github.svg" alt="Github" width="20" height="18"/>  [GitHub](https://github.com/zedjiga-naitdjoudi) → https://github.com/zedjiga-naitdjoudi
+* <img src="./assets/linkedin.svg" alt="LinkedIn" width="20" height="18"/>  [LinkedIn](https://www.linkedin.com/in/zedjiga-nait-djoudi) → https://www.linkedin.com/in/zedjiga-nait-djoudi
+* <img src="./assets/instagram.svg" alt="Instagram" width="20" height="18"/>  [Instagram](https://www.instagram.com/zzjcanfly) → https://www.instagram.com/zzjcanfly
 
 ---
 
