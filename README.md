@@ -11,7 +11,7 @@ Hi! I'm **Zedjiga**, a passionate **Full Stack Web Developer** who loves buildin
 Curious by nature, I enjoy learning new technologies, solving problems, and creating meaningful digital experiences.  
 Always motivated to grow, collaborate, and bring ideas to life! ✨
 
-🌸 **Curious** • 💻 **Tech-Driven** • 🎀 **Minimalist Aesthetic**
+🌸 **Curious** • 💻 **Tech-Driven** 
 
 ---
 
