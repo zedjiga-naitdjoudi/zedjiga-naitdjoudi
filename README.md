@@ -6,7 +6,7 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=F9A8D4&center=true&vCenter=true&lines=Full+Stack+Web+Developer;ESGI+Student">
     <h3 align="center">Love Tech, love learning and share my knowledges.</h3>
-    <h3 align="center">I'm web developper</h3>
+    <h3 align="center">I'm a web developper</h3>
 </p>
 
 ## 👩‍💻 About Me
