@@ -1,8 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Zedjiga!
-👩🏻‍💻 Software Engineering Student sharing about learnings in tech<br/>
-👩🏻‍🎓 Studying at the ESGI, Paris<br/>
+👩🏻‍💻 Web Developer at ESGI in a work-study program<br/>
 💭 Currently learning about FullStack dev !<br/>
 
 
